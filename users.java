@@ -3,6 +3,3 @@ Simon
 Percy
 Kenji
 Miya
-Kalifat
-Yusuf
-
